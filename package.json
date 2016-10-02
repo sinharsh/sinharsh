@@ -1,0 +1,14 @@
+{
+  "name": "acadbot1",
+  "version": "1.0.0",
+  "description": "acadbot1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "CTS",
+  "license": "ISC"
+}
